@@ -28,3 +28,5 @@ Memory Optimizer Pro is released under the Apache 2.0 License.
 ## Contributing
 If you'd like to contribute to the project, feel free to submit a pull request or create an issue with your suggestions and feedback.
 
+### Future features
+Some features I would like in the future are a standby-list memory cleaner
