@@ -1,6 +1,8 @@
 # Memory Optimizer Pro
 Memory Optimizer Pro is a PowerShell script designed to optimize your system's memory usage by clearing the working set of processes. It helps free up memory resources, making your system run more efficiently. The script allows you to whitelist specific processes to prevent their working sets from being cleared.
 
+Specially designed for low-end high-overhead systems
+
 ## Features
 - Automatically clears the working set of processes
 - Whitelist specific processes to prevent memory clearing
